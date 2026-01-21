@@ -15,6 +15,7 @@
   <a href="https://linkedin.com/in/YOUR_PROFILE">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
+  
   <a href="https://instagram.com/YOUR_USERNAME">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
