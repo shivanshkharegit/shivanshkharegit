@@ -12,7 +12,7 @@
 ### 🌐 Connect with me:
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="www.linkedin.com/in/shivansh-khare-2b5111335">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
   
