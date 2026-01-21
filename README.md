@@ -39,4 +39,6 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshkharegit&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=shivanshkharegit&show_icons=true&theme=dark&count_private=true)
+
 
