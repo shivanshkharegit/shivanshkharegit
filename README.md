@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi 👋, I'm YOUR NAME
 
-<!--
-**shivanshkharegit/shivanshkharegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A Computer Science student passionate about development and learning new technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Your Project Name**
+- 🌱 I’m currently learning **React, Spring Boot**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+- 📫 How to reach me: **yourmail@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/yourprofile)
+
+---
+
+### 🛠 Languages and Tools:
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?logo=java)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+
+---
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
