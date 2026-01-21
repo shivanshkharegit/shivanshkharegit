@@ -10,12 +10,18 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/yourprofile)
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+  </a>
+  <a href="https://instagram.com/YOUR_PROFILE">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35"/>
+  </a>
+</p>
 
 ---
 
-### 🛠 Languages and Tools:
 ### 🛠 Languages and Tools:
 
 <p align="left">
