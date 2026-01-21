@@ -1,11 +1,11 @@
-## Hi 👋, I'm YOUR NAME
+## Hi 👋, I'm Shivansh....
 
 🎓 A Computer Science student passionate about development and learning new technologies.
 
-- 🔭 I’m currently working on **Your Project Name**
-- 🌱 I’m currently learning **React, Spring Boot**
+- 🔭 I’m currently working on **Project Name**
+- 🌱 I’m currently learning **SQL, Java**
 - 💬 Ask me about **HTML, CSS, JavaScript, Java**
-- 📫 How to reach me: **yourmail@gmail.com**
+- 📫 How to reach me: **shivanshkhare225@gmail.com**
 
 ---
 
