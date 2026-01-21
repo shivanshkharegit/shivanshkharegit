@@ -16,11 +16,15 @@
 ---
 
 ### 🛠 Languages and Tools:
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?logo=java)
-![React](https://img.shields.io/badge/React-blue?logo=react)
+### 🛠 Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+</p>
 
 ---
 
